@@ -1,0 +1,7 @@
+[
+    {"title":"English to Sinhala",
+    "dataset":"en2sn.json"
+    },{"title":"Sinhala to English",
+    "dataset":"sn2en.json"
+    }
+]
